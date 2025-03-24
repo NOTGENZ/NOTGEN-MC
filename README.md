@@ -7,6 +7,12 @@
 Notgen is a high-quality Minecraft texture pack designed to enhance visuals while maintaining a smooth performance. It brings a fresh look to blocks, items, and UI without straining your device.  
 ### Version (MIN TO MAX)
 **1.17.0 (minimum)** To **Latest (maximum)**
+**Listed!** 
+- Curse forge.
+- MCPEDL.
+- Planet Minecraft.
+
+ ✨ |  Click here to download [Listed](https://github.com/NOTGENZ/NOTGEN-MC/blob/main/listed.md).
 ### 🛠 Features  
 - Optimized for **PvP & Survival**  
 - **FPS Boosting** textures  
