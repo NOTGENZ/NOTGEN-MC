@@ -12,7 +12,7 @@ Notgen is a high-quality Minecraft texture pack designed to enhance visuals whil
 - MCPEDL.
 - Planet Minecraft.
 
- ✨ |  Click here to download [Listed](https://github.com/NOTGENZ/NOTGEN-MC/blob/main/listed.md).
+ ✨ |  Click here to download [Listed](https://github.com/NOTGENZ/NOTGEN-MC/blob/main/Listed.md).
 ### 🛠 Features  
 - Optimized for **PvP & Survival**  
 - **FPS Boosting** textures  
