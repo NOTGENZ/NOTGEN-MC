@@ -44,7 +44,7 @@ Check out **more amazing packs** on [MCPEPACK](https://mcpepack.wordpress.com/)
 ## 📢 Credits  
 - **Creator**: Exeboii  
 - **Website**: [mcpepack.wordpress.com](https://mcpepack.wordpress.com/)  
-- **Support & Updates**: [Join Discord](https://discord.gg/XNhm2dNhfB)  
+- **Support & Updates**: [Join Discord](https://discord.gg/Zhmes8CHwa)  
 
 ---
 
