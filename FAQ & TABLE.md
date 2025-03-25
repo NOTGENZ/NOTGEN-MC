@@ -65,6 +65,13 @@ Notgen is a **Minecraft Bedrock Edition** texture pack designed to **improve FPS
 
 🔗 **Discord:** [https://discord.gg/Zhmes8CHwa](https://discord.gg/Zhmes8CHwa)  
 🌍 **Planet Minecraft:** [https://www.planetminecraft.com/texture-pack/notgen/](https://www.planetminecraft.com/texture-pack/notgen/)  
+
+🍃 **MCPEDL:**
+[https://mcpedl.com/notgen-v5/](https://mcpedl.com/notgen-v5/)
+
+🔥 **Curse Forge:** 
+[https://legacy.curseforge.com/minecraft-bedrock/texture-packs/notgen-v5](https://legacy.curseforge.com/minecraft-bedrock/texture-packs/notgen-v5)
+
 📥 **GitHub:** [https://github.com/NOTGENZ/NOTGEN-MC](https://github.com/NOTGENZ/NOTGEN-MC)  
 📦 **MCPEPack Website:** [https://mcpepack.wordpress.com/](https://mcpepack.wordpress.com/)  
 
