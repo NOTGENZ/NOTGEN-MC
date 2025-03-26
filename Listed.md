@@ -13,7 +13,7 @@ Here, you’ll find all available versions of Notgen across different platforms.
 |----------------------|---------------------|
 | **[CurseForge](https://legacy.curseforge.com/minecraft-bedrock/texture-packs/notgen-v5)** | ✅ Download Here |
 | **[Planet Minecraft](https://www.planetminecraft.com/texture-pack/notgen/)** | ✅ Download Here |
-| **[MCPEDL](https://mcpedl.com/notgen-v5/)** | ✅ Download Here |
+| **[MCPEDL](https://mcpedl.com/notgen-v5-2/)** | ✅ Download Here |
 
 > ⚠ **Note:** Always download from official sources to avoid fake versions.  
 
