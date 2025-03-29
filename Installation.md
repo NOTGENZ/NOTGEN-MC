@@ -1,7 +1,7 @@
 # 🔧 Installation Guide - Notgen v5.0 (Bedrock & PE)  
 
 ## 📂 Step 1: Locate the Downloaded File  
-- After downloading, open your **File Manager** and find the **Notgen v5.0.mcpack** file.  
+- After downloading, open your **File Manager** and find the **Notgen MC** file.  
 
 ## 📥 Step 2: Open and Import into Minecraft  
 - **Android/iOS:** Tap on the file, and Minecraft will **automatically launch** and import the pack.  
