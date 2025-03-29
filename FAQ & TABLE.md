@@ -1,7 +1,8 @@
 # **FAQ – Notgen Texture Pack**  
 
 Notgen is a **Minecraft Bedrock Edition** texture pack designed to **improve FPS and reduce lag** while maintaining a **smooth and enjoyable gaming experience**. Below are some common questions about Notgen, along with honest comparisons.  
-![Minecraft home screen/notgen/V5 ](https://github.com/user-attachments/assets/1b5555b5-9aae-47f9-9e33-54b549c46bb9)
+![NOTGEN MC/V6](https://github.com/user-attachments/assets/29b81906-3127-4dbc-9bfd-3d71506192ca)
+
 
 ---
 
@@ -20,7 +21,7 @@ Notgen is a **Minecraft Bedrock Edition** texture pack designed to **improve FPS
 ❌ **No.** Notgen **only modifies textures** to improve performance. It **does not** change gameplay, add new features, or alter world generation.  
 
 ### **Q: Will this work on all versions of Minecraft Bedrock?**  
-✅ **Yes!** Notgen is compatible with **all MCPE versions** and works on **Android, iOS, and Windows 10 Edition**.  
+✅ **Yes!** Notgen is compatible with **1.17+ all  MCPE versions** and works on **Android, iOS, and Windows 10 Edition**.  
 
 ---
 
@@ -63,16 +64,16 @@ Notgen is a **Minecraft Bedrock Edition** texture pack designed to **improve FPS
 
 ## 🎮 **Download & Community Links**  
 
-🔗 **Discord:** [https://discord.gg/Zhmes8CHwa](https://discord.gg/Zhmes8CHwa)  
-🌍 **Planet Minecraft:** [https://www.planetminecraft.com/texture-pack/notgen/](https://www.planetminecraft.com/texture-pack/notgen/)  
+🔗 **Discord:** [Owner & Dev Server](https://discord.gg/Zhmes8CHwa)  
+🌍 **Planet Minecraft:** [Fast Updates from NOTGEN MC | MCPE/BEDROCK](https://www.planetminecraft.com/texture-pack/notgen/)  
 
 🍃 **MCPEDL:**
-[https://mcpedl.com/notgen-v5/](https://mcpedl.com/notgen-v5/)
+[Click here | Mcpe](https://mcpedl.com/notgen-v5/)
 
 🔥 **Curse Forge:** 
-[https://legacy.curseforge.com/minecraft-bedrock/texture-packs/notgen-v5](https://legacy.curseforge.com/minecraft-bedrock/texture-packs/notgen-v5)
+[Click here | Bedrock edition ](https://legacy.curseforge.com/minecraft-bedrock/texture-packs/notgen-v5)
 
-📥 **GitHub:** [https://github.com/NOTGENZ/NOTGEN-MC](https://github.com/NOTGENZ/NOTGEN-MC)  
-📦 **MCPEPack Website:** [https://mcpepack.wordpress.com/](https://mcpepack.wordpress.com/)  
+📥 **GitHub:** [All information about Notgen MC](https://github.com/NOTGENZ/NOTGEN-MC)  
+📦 **MCPEPack Website:** [Offical Website](https://mcpepack.wordpress.com/)  
 
 🔥 **Get Notgen today and enjoy a smooth, lag-free Minecraft experience!**  
