@@ -18,7 +18,7 @@ Notgen is a high-quality Minecraft texture pack designed to enhance visuals whil
 - **FPS Boosting** textures  
 - Clean and **Minimalistic UI**  
 - **Custom Weapons & Tools**  
-- Compatible with **MCPE & Java Edition**  
+- Compatible with **MCPE & bedrock Edition**  
 
 ## 📥 Download  
 🔗 **Get Notgen here:** [Download Now](https://www.planetminecraft.com/texture-pack/notgen/)  
