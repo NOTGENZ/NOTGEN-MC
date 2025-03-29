@@ -24,7 +24,8 @@ Notgen is a high-quality Minecraft texture pack designed to enhance visuals whil
 🔗 **Get Notgen here:** [Download Now](https://www.planetminecraft.com/texture-pack/notgen/)  
 
 ## 🖼 Screenshots  
-![Home screen ](https://github.com/user-attachments/assets/ba2f04e4-41d3-418b-992b-780bcba229fa)
+![Screenshot_20250329-123544](https://github.com/user-attachments/assets/b66c1e71-37df-4ce7-88df-223e9af0ecf4)
+
 ![NOTGEN FEATURES ](https://github.com/user-attachments/assets/baee353e-dadb-464f-ba78-edf652baef2a)
   
 ## 🔧 Installation Guide  
@@ -33,10 +34,10 @@ Notgen is a high-quality Minecraft texture pack designed to enhance visuals whil
    - Open it with Minecraft  
    - Apply it from Settings > Global Resources  
 
-2. **Minecraft Java**:  
-   - Download the `.zip` file  
-   - Place it in `resourcepacks` folder (`.minecraft/resourcepacks`)  
-   - Enable it from Minecraft settings  
+2. **Minecraft Pe**:  
+   - Download the `.mcpack` file  
+   - Open **Z archivers**.  
+   -  Click on the **file** Press arrow and select **minecraft**.
 
 ## 🌐 More Texture Packs  
 Check out **more amazing packs** on [MCPEPACK](https://mcpepack.wordpress.com/)  
@@ -48,4 +49,4 @@ Check out **more amazing packs** on [MCPEPACK](https://mcpepack.wordpress.com/)
 
 ---
 
-© 2025 Exeboii | All rights reserved.  
+© 2025 NOTGEN MC | All rights reserved.  
