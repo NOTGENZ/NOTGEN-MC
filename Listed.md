@@ -1,11 +1,11 @@
-# 🎨 Notgen Texture Pack Versions – Official Page  
+# 🎨 Notgen MC Versions – Official Page  
 **Welcome to the official Notgen texture pack listing!**  
 Here, you’ll find all available versions of Notgen across different platforms.  
 
 ---
 
 ## 📌 Available Versions  
-🟢 **Notgen V5**  
+🟢 **Notgen V6**  
 📌 *Latest & Most Optimized Version*  
 
 ### 🌍 Download Links  
