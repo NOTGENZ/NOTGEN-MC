@@ -26,8 +26,8 @@ Notgen is a high-quality Minecraft texture pack designed to enhance visuals whil
 ## 🖼 Screenshots  
 ![Screenshot_20250329-123544](https://github.com/user-attachments/assets/b66c1e71-37df-4ce7-88df-223e9af0ecf4)
 
-![NOTGEN FEATURES ](https://github.com/user-attachments/assets/baee353e-dadb-464f-ba78-edf652baef2a)
-  
+![NOTGEN FEATURES ](https://github.com/user-attachments/assets/2507abdc-8770-440a-b742-d8934ff9b8a1)
+
 ## 🔧 Installation Guide  
 1. **Minecraft Bedrock**:  
    - Download the `.mcpack` file  
