@@ -49,4 +49,4 @@ Check out **more amazing packs** on [MCPEPACK](https://mcpepack.wordpress.com/)
 
 ---
 
-© 2025 NOTGEN MC | All rights reserved.  
+© 2025 NOTGEN MC | Apache License 
