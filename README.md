@@ -11,6 +11,8 @@ Notgen is a high-quality Minecraft texture pack designed to enhance visuals whil
 - Curse forge.
 - MCPEDL.
 - Planet Minecraft.
+- Modbay.
+- 9minecraft.
 
  ✨ |  Click here to download [Listed](https://github.com/NOTGENZ/NOTGEN-MC/blob/main/Listed.md).
 ### 🛠 Features  
