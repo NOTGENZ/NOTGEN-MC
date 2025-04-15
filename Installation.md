@@ -10,6 +10,6 @@
 ## 🎮 Step 3: Activate the Texture Pack  
 1. Open **Minecraft** and go to **Settings**.  
 2. Navigate to **Global Resources** (or **Resource Packs** inside a world).  
-3. Find **Notgen v5.0** in the list and activate it.  
+3. Find **Notgen MC** in the list and activate it.  
 
 ✅ Done! Now enjoy **Notgen v6.0** with enhanced textures and smooth performance! 🚀  
