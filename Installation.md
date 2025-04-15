@@ -1,4 +1,4 @@
-# 🔧 Installation Guide - Notgen v5.0 (Bedrock & PE)  
+# 🔧 Installation Guide - Notgen Mc (Bedrock & PE)  
 
 ## 📂 Step 1: Locate the Downloaded File  
 - After downloading, open your **File Manager** and find the **Notgen MC** file.  
@@ -12,4 +12,4 @@
 2. Navigate to **Global Resources** (or **Resource Packs** inside a world).  
 3. Find **Notgen v5.0** in the list and activate it.  
 
-✅ Done! Now enjoy **Notgen v5.0** with enhanced textures and smooth performance! 🚀  
+✅ Done! Now enjoy **Notgen v6.0** with enhanced textures and smooth performance! 🚀  
